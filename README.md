@@ -43,7 +43,7 @@ $ curl http://localhost:8123/status
 ```
 
 
-# Notes
+# Notes - new
 
 You can run the Go application locally if you have Go installed.
 
